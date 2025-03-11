@@ -1,5 +1,5 @@
 🚀 Dion Tran | AI & Data Science Enthusiast
-👨‍💻 Mainframe Engineer @ NAB | 🤖 AI & ML Developer | 📊 Data Science Enthusiast
+👨‍💻 Solo Founder @ AithosAI | 🤖 AI & ML Developer | 📊 Data Science Enthusiast
 
 💡 Passionate about AI, automation, and machine learning, I specialize in building intelligent systems that optimize workflows and drive business impact. Always learning, experimenting, and collaborating on exciting tech projects!
 
