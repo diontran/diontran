@@ -1,10 +1,29 @@
-- 👋 Hi, I’m @diontran
-- 👀 I’m interested in data science and coding
-- 🌱 I’m an alumni Unimelb and working at NAB as a Mainframe Engineer
-- 💞️ I’m looking to collaborate on machine learning projects
-- 📫 How to reach me gmail: dion.doanh.tran@gmail.com and Linkedin: www.linkedin.com/in/dion-tran-8120221b3
+🚀 Dion Tran | AI & Data Science Enthusiast
+👨‍💻 Mainframe Engineer @ NAB | 🤖 AI & ML Developer | 📊 Data Science Enthusiast
 
-<!---
-diontran/diontran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💡 Passionate about AI, automation, and machine learning, I specialize in building intelligent systems that optimize workflows and drive business impact. Always learning, experimenting, and collaborating on exciting tech projects!
+
+📌 About Me
+🔹 Experience: AI-powered automation, ML development, mainframe engineering
+🔹 Interests: AI-driven solutions, NLP, data visualization, and process optimization
+🔹 Currently Exploring: Advanced AI agents, large language models, and full-stack automation
+🔹 Looking to Collaborate: Open-source AI projects & innovative ML applications
+
+🛠 Tech Stack
+🚀 Languages: Python, C, SQL, HTML, JavaScript
+🧠 Machine Learning: TensorFlow, PyTorch, OpenCV
+📊 Data Science & Visualization: Pandas, NumPy, Matplotlib, Seaborn
+🔧 Tools & Platforms: Git, Docker, AWS, Google Cloud, FastAPI
+💡 Other: Mainframe systems, AI Chatbots, Automation
+
+📌 Featured Projects
+🔥 AI-Powered Instagram Chatbot
+🤖 GPT-powered assistant for Instagram automation & engagement.
+
+🐝 Bee vs. Wasp Classifier
+📸 Deep learning model for real-time bee & wasp classification using neural networks.
+
+🏙️ NYC Taxi ML Insights
+🚕 Data visualization & profit prediction analysis for NYC taxi operations.
+
+👉 Check out more of my projects here!
